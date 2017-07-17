@@ -1,0 +1,50 @@
+{
+  "name": "angular-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzofish/angular-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzofish/angular-jest/issues"
+  },
+  "homepage": "https://github.com/gonzofish/angular-jest#readme",
+  "dependencies": {
+    "@angular/common": ">=4.0.0",
+    "@angular/compiler": ">=4.0.0",
+    "@angular/core": ">=4.0.0",
+    "@angular/platform-browser": ">=4.0.0",
+    "@angular/platform-browser-dynamic": ">=4.0.0",
+    "core-js": "2.4.1",
+    "rxjs": "5.0.1",
+    "zone.js": "0.8.4"
+  },
+  "devDependencies": {
+    "@angular/compiler-cli": ">=4.0.0",
+    "@types/jest": "20.0.2",
+    "@types/node": "8.0.13",
+    "angular2-template-loader": "0.6.0",
+    "awesome-typescript-loader": "3.2.1",
+    "css-loader": "0.28.4",
+    "jest": "20.0.4",
+    "node-sass": "4.5.3",
+    "raw-loader": "0.5.1",
+    "sass-loader": "6.0.6",
+    "source-map-loader": "0.2.1",
+    "ts-jest": "20.0.7",
+    "tslint": "5.5.0",
+    "tslint-loader": "3.5.3",
+    "typescript": "2.1.5",
+    "url-loader": "0.5.9",
+    "webpack": "3.3.0",
+    "webpack-dev-server": "2.5.1"
+  }
+}
